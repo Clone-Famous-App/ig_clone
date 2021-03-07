@@ -1,43 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="830e8fec-c931-47a1-86f6-1ecea55b3911" name="Default Changelist" comment="" />
+    <list default="true" id="2180af6f-2d88-4561-b4ca-dc372b076ca0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1pPyzfjcsZaIbYTbYVr6X03IL6e" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_6_API_28]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pPz5sBcZ9DZZdOCqkj1GL7UiXK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/fonts" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kerja\quotes\ig_clone\assets\images" />
+      <recent name="D:\Kerja\quotes\ig_clone\assets\fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="830e8fec-c931-47a1-86f6-1ecea55b3911" name="Default Changelist" comment="" />
-      <created>1615099283407</created>
+      <changelist id="2180af6f-2d88-4561-b4ca-dc372b076ca0" name="Default Changelist" comment="" />
+      <created>1615099332361</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615099283407</updated>
+      <updated>1615099332361</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="911" y="154" key="FileChooserDialogImpl" timestamp="1615099313462">
+    <state x="479" y="141" key="#PSD" timestamp="1615103844281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="911" y="154" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615099313462" />
+    <state x="479" y="141" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1615103844281" />
+    <state x="1052" y="92" width="776" height="856" key="AVDManager" timestamp="1615129211520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1052" y="92" width="776" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1615129211520" />
+    <state x="1114" y="134" key="FileChooserDialogImpl" timestamp="1615100138352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1114" y="134" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615100138352" />
+    <state width="890" height="252" key="GridCell.Tab.0.bottom" timestamp="1615129173175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="890" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615129173175" />
+    <state width="890" height="252" key="GridCell.Tab.0.center" timestamp="1615129173175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="890" height="252" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615129173175" />
+    <state width="890" height="252" key="GridCell.Tab.0.left" timestamp="1615129173175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="890" height="252" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615129173175" />
+    <state width="890" height="252" key="GridCell.Tab.0.right" timestamp="1615129173175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="890" height="252" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615129173175" />
+    <state x="218" y="0" key="SettingsEditor" timestamp="1615104258353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="218" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615104258353" />
+    <state x="1113" y="392" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1615100144172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1113" y="392" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615100144172" />
   </component>
 </project>
